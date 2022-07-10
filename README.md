@@ -17,3 +17,11 @@ must add that product if it is possible.
 3. removeProduct: to decide whether can remove a specific product in the store or not. It must remove that product if it is already in the store.
 4. totalPrice: calculates the total price of a specific list of products chosen by the user (part of the main products in the store). Make sure, you will give a discount 25% only for a special customer.
 5. buy: to manipulate a complete buy operation for a specific user and a specific list of products(part of the main products in the store). Make sure he/she can buy only an exist product, remove it from store, then print the final information included the total price.
+
+
+## Testing & screenshots 
+Below presented some outputs of this project to get an idea of it
+
+<img width="664" alt="Screen Shot 2022-07-10 at 3 55 21 AM" src="https://user-images.githubusercontent.com/68879499/178127277-711304cd-8cb5-4885-90a4-9af4dd3a3d1f.png">
+
+<img width="398" alt="Screen Shot 2022-07-10 at 3 56 03 AM" src="https://user-images.githubusercontent.com/68879499/178127294-8752f56d-32e1-4b85-baf7-6ad9fe4ebc06.png">
