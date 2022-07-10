@@ -3,13 +3,13 @@ building a Store management system to manage the store with three parts :users, 
 
 ## Problem description
 
-###### Users
+###### **Users**
 The users in the store management system has the name, ID (generated automatically in a sequence from 1000). The system works with two kinds of users:
 1. Employee has a salary. In addition, we can update the salary and increase it with a specific percentage as a bonus.
 2. Customer holds how many times he/she visits (buys from) the store. A customer is called a new customer if he/she visits the store one or two times. In the other cases, he/she is called a special customer.
-###### Products
+###### **Products**
 Each product has a name, price, ID (generated automatically). There is a special kind of product called Special-Products. These special products have a relation between each other, e.g. the same offer, can buy together ... etc. Each Special-Products has the name of this relationship and has a list of these Special-Products. Make sure, in the final, you can get the same list of Special-Products by using any special product in this list.
-###### Store
+###### **Store**
 Each store has a name and a list of products in that store. Assume that it has 100 products as a maximum size. The store can do different functionalities:
 1. isExist: to decide whether a specific product is available/exist in the store or not.
 2. addProduct: to decide whether can add a specific product in the store or not. It
