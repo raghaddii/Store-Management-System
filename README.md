@@ -27,6 +27,6 @@ Below presented some outputs of this project to get an idea of it
 <img width="398" alt="Screen Shot 2022-07-10 at 3 56 03 AM" src="https://user-images.githubusercontent.com/68879499/178127294-8752f56d-32e1-4b85-baf7-6ad9fe4ebc06.png">
 
 ###### **This project done by:**
-Raghad Alshabana
-Alaa Alanazi
-Rand Matar
+- Raghad Alshabana
+- Alaa Alanazi
+- Rand Matar
